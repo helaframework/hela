@@ -1,0 +1,5 @@
+dependencies {
+    api project(":hela")
+    api project(":spring-boot-starter:hela-spring-boot-autoconfigure")
+
+}
